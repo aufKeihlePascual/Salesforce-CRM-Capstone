@@ -1,4 +1,4 @@
-[CRM Logo](logo.png)
+![CRM Logo](logo.png)
 
 # Tours and Travels Platform Development Using CRM-Salesforce
 
