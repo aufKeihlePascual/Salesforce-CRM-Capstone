@@ -11,7 +11,7 @@ In turn, these tools enabled developing features like guided customer onboarding
 ## Links and References
 
 + **Documentation Folder:** [View](https://drive.google.com/drive/folders/1fljbBiypBPjiLieB1uHiNYHXYrz5bYOv?usp=sharing)<br/>
-+ **Project Documentation:** [View PDF](https://drive.google.com/file/d/1_Cg9rsGamE_Lm1OseYpA-82I3F7cQqje/view?usp=sharing)<br/>
++ **Project Documentation:** [View PDF](https://drive.google.com/file/d/1MfUF47i8KKoDmh8wa7aa6ziNKwvSB87T/view?usp=sharing)<br/>
 + **Milestone Screenshots:** [View](https://drive.google.com/drive/folders/1-iecmosyCqG5Cav2tzpjCgtUjBgCMPqP?usp=sharing)<br/>
     - Phase 2: [View](https://drive.google.com/drive/folders/1COOpG2ssnoPyRszwnypjk5Gz1S56Sbav?usp=sharing)
     - Phase 3: [View](https://drive.google.com/drive/folders/1QaC4-UYbfrQggGmmzb0XpkA2tgJVuayC?usp=sharing)
