@@ -7,8 +7,11 @@ In turn, these tools enabled developing features like guided customer onboarding
 
 ## Links and References
 
-+ **Documentation Folder:** [View Folder](https://drive.google.com/drive/folders/1fljbBiypBPjiLieB1uHiNYHXYrz5bYOv?usp=sharing)<br/>
++ **Documentation Folder:** [View](https://drive.google.com/drive/folders/1fljbBiypBPjiLieB1uHiNYHXYrz5bYOv?usp=sharing)<br/>
 + **Project Documentation:** [View PDF](https://drive.google.com/file/d/1_Cg9rsGamE_Lm1OseYpA-82I3F7cQqje/view?usp=sharing)<br/>
-+ **Milestone Screenshots:** [View Folder](https://drive.google.com/drive/folders/1-iecmosyCqG5Cav2tzpjCgtUjBgCMPqP?usp=sharing)<br/>
++ **Milestone Screenshots:** [View](https://drive.google.com/drive/folders/1-iecmosyCqG5Cav2tzpjCgtUjBgCMPqP?usp=sharing)<br/>
+    - Phase 2: [View](https://drive.google.com/drive/folders/1COOpG2ssnoPyRszwnypjk5Gz1S56Sbav?usp=sharing)
+    - Phase 3: [View](https://drive.google.com/drive/folders/1QaC4-UYbfrQggGmmzb0XpkA2tgJVuayC?usp=sharing)
+    - Phase 4: [View](https://drive.google.com/drive/folders/1slO23uQBAtVfYmpxeqO_cgtDTJ1vv7kX?usp=sharing)
 + **Email Template Screenshots:** [View](https://drive.google.com/drive/folders/1KX7ZMDnfMwoSBRvUaVc_YHpMgTAWCAJq?usp=sharing)<br/>
-+ **CSVs Used for Data Import Wizard:** [View CSV Folder](https://drive.google.com/drive/folders/1VsQj7_-LKyPt08EfprNZw0QawW-GpU5X?usp=sharing)<br/>
++ **CSVs Used for Data Import Wizard:** [View CSVs](https://drive.google.com/drive/folders/1VsQj7_-LKyPt08EfprNZw0QawW-GpU5X?usp=sharing)<br/>
