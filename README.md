@@ -1,5 +1,8 @@
 # Tours and Travels Platform Development Using CRM-Salesforce
-![CRM Logo](logo.png)
+<p align="center">
+  <img src="logo.png" alt="CRM Logo" width="400">
+</p>
+
 ## Project Overview
 The Tours & Travels Customer Relationship Management (CRM) application is a Salesforce-based system designed to optimize and automate the core operations of a travel agency. It consolidates key business functions such as customer relationship management, travel package handling, booking and payment processes, employee role assignments, as well as feedback collection into a unified platform. The most significant aspect of this CRM is its use of Salesforce’s no-code and low-code development tools— such as Flows, Process Builder, and Declarative Configuration— to build complex logic and automation without the need for extensive traditional coding.
 <br/><br/>
