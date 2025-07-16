@@ -18,3 +18,5 @@ In turn, these tools enabled developing features like guided customer onboarding
     - Phase 4: [View](https://drive.google.com/drive/folders/1slO23uQBAtVfYmpxeqO_cgtDTJ1vv7kX?usp=sharing)
 + **Email Template Screenshots:** [View](https://drive.google.com/drive/folders/1KX7ZMDnfMwoSBRvUaVc_YHpMgTAWCAJq?usp=sharing)<br/>
 + **CSVs Used for Data Import Wizard:** [View CSVs](https://drive.google.com/drive/folders/1VsQj7_-LKyPt08EfprNZw0QawW-GpU5X?usp=sharing)<br/>
++ **Reports Screenshots:** [View](https://drive.google.com/drive/folders/1zerpeeCVvO2-Rw-UdnCLabsFCWuT14fq?usp=sharing)<br/>
++ **Global Picklist Value Screenshots:** [View](https://drive.google.com/drive/folders/1Fv6iXgkT_GWl16afitApqOBmmfl5i39c?usp=sharing)<br/>
